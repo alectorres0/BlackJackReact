@@ -18,7 +18,7 @@ useEffect(()=>{
 
 
 return(
-    <h1>{deck}</h1>
+    {deck}
 )
 }
 
